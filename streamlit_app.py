@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 #Title
-st.title("App: :blue[prova 1]")
+st.title("App: :green[prova 1]")
 
 #Header
 st.header("This is a header")
